@@ -36,7 +36,7 @@ Languages, frameworks, and tools I use:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Paopun20&theme=github_dark&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=PaoPaoGH&theme=github_dark&hide_border=false" height="150" />
 </div>
 
 ---
